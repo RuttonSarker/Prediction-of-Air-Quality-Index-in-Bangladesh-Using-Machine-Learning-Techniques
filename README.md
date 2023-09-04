@@ -1,3 +1,13 @@
+# Research Project (Jan, 2021 - April 2021)
+
+* **COURSE CODE:** CSE498R (Directed Research) <br>
+* Research Supervisor: Dr. Shazzad Hosain  <br> 
+  Professor  <br>
+  Department of Electrical and Computer Engineering  <br>
+  North South University (NSU) 
+  
+
+
 # Authors
 * Rutton Chandra Sarker 
 
